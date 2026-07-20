@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-9baeqh.citysinglescommunity.com/sitemap.xml
